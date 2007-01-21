@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Math-GammaFunction
-version:             0.01
+version:             0.02
 abstract:            The Gamma and its related functions
 license:             perl
 generated_by:        ExtUtils::MakeMaker version 6.31
